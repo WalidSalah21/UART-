@@ -1,0 +1,135 @@
+D:/system_proj/SYS_TOP.v {1 {vlog -work work D:/system_proj/SYS_TOP.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SYS_TOP
+
+Top level modules:
+	SYS_TOP
+
+} {} {}} D:/system_proj/BIT_SYNC.v {1 {vlog -work work D:/system_proj/BIT_SYNC.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BIT_SYNC
+
+Top level modules:
+	BIT_SYNC
+
+} {} {}} {D:/system_proj/UART_RX .v} {1 {vlog -work work {D:/system_proj/UART_RX .v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_RX
+-- Compiling module parity_check
+-- Compiling module strt_check
+-- Compiling module stop_check
+-- Compiling module deserializer
+-- Compiling module edge_bit_counter
+-- Compiling module data_sampling
+-- Compiling module FSM_RX
+
+Top level modules:
+	UART_RX
+
+} {} {}} D:/system_proj/ClkDiv.v {1 {vlog -work work {D:\system_proj\ClkDiv.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ClkDiv
+
+Top level modules:
+	ClkDiv
+
+} {} {}} D:/system_proj/CLOCK_Gating.v {1 {vlog -work work D:/system_proj/CLOCK_Gating.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CLK_GATE
+
+Top level modules:
+	CLK_GATE
+
+} {} {}} D:/system_proj/REG_File.v {1 {vlog -work work D:/system_proj/REG_File.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module REG_File
+
+Top level modules:
+	REG_File
+
+} {} {}} D:/system_proj/RST_Synchronizer.v {1 {vlog -work work D:/system_proj/RST_Synchronizer.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RST_SYNC
+
+Top level modules:
+	RST_SYNC
+
+} {} {}} D:/system_proj/UART_TX.v {1 {vlog -work work D:/system_proj/UART_TX.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module serializer
+-- Compiling module parity_Calc
+-- Compiling module MUX
+-- Compiling module FSM_TX
+-- Compiling module UART_TX
+
+Top level modules:
+	UART_TX
+
+} {} {}} D:/system_proj/Async_fifo.v {1 {vlog -work work D:/system_proj/Async_fifo.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Async_fifo
+-- Compiling module FIFO_MEMORY
+-- Compiling module ADDR_SYNC
+-- Compiling module FIFO_rptr_empty
+-- Compiling module FIFO_wptr_full
+
+Top level modules:
+	Async_fifo
+
+} {} {}} D:/system_proj/ALU.v {1 {vlog -work work D:/system_proj/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/system_proj/UART_RX_TB.v {1 {vlog -work work D:/system_proj/UART_RX_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_RX_tb
+
+Top level modules:
+	UART_RX_tb
+
+} {} {}} D:/system_proj/PULSE_GEN.v {1 {vlog -work work D:/system_proj/PULSE_GEN.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PULSE_GEN
+
+Top level modules:
+	PULSE_GEN
+
+} {} {}} D:/system_proj/SYS_CTRL.v {1 {vlog -work work D:/system_proj/SYS_CTRL.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module SYS_CTRL
+
+Top level modules:
+	SYS_CTRL
+
+} {} {}} D:/system_proj/Div_mux.v {1 {vlog -work work {D:\system_proj\Div_mux.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Div_mux
+
+Top level modules:
+	Div_mux
+
+} {} {}} D:/UART_RX_TB.v {1 {vlog -work work D:/UART_RX_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module UART_RX_tb
+
+Top level modules:
+	UART_RX_tb
+
+} {} {}} D:/system_proj/ASYNC_FIFO_TB.v {1 {vlog -work work D:/system_proj/ASYNC_FIFO_TB.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Async_fifo_tb
+
+Top level modules:
+	Async_fifo_tb
+
+} {} {}} D:/system_proj/DATA_Synchronizer.v {1 {vlog -work work D:/system_proj/DATA_Synchronizer.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module DATA_SYNC
+
+Top level modules:
+	DATA_SYNC
+
+} {} {}}
